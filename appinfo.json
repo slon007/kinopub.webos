@@ -1,0 +1,14 @@
+{
+	"id": "kinopub.webos",
+	"version": "1.0.4",
+	"vendor": "LGE-SVL",
+	"type": "web",
+	"main": "index.html",
+	"title": "Kinopub",
+	"icon": "icon.png",
+	"miniicon": "icon-mini.png",
+	"largeIcon": "icon-large.png",
+	"splashBackground": "splashBackground.png",
+	"uiRevision": 2,
+	"disableBackHistoryAPI": true
+}
