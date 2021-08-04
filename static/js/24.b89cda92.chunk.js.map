@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/notFound/notFound.tsx"],"names":["NotFoundView"],"mappings":"kLAIeA,EAJgB,WAC7B,OAAO","file":"static/js/24.b89cda92.chunk.js","sourcesContent":["const NotFoundView: React.FC = () => {\n  return <>Not found</>;\n};\n\nexport default NotFoundView;\n"],"sourceRoot":""}
