@@ -1,2 +1,0 @@
-(this["webpackJsonpkinopub.webos"]=this["webpackJsonpkinopub.webos"]||[]).push([[23],{1047:function(e,n,s){"use strict";s.r(n);var t=s(355),b=s(2);n.default=function(){return Object(b.jsx)(b.Fragment,{children:Object(b.jsx)(t.a,{})})}}}]);
-//# sourceMappingURL=23.7c4099d0.chunk.js.map
