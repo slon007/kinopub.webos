@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/index/index.tsx"],"names":["IndexView"],"mappings":"wHAAA,2BAUeA,UARa,WAC1B,OACE,mCACE,cAAC,IAAD","file":"static/js/24.1d574c37.chunk.js","sourcesContent":["import Spinner from 'components/spinner';\n\nconst IndexView: React.FC = () => {\n  return (\n    <>\n      <Spinner />\n    </>\n  );\n};\n\nexport default IndexView;\n"],"sourceRoot":""}
