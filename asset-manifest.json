@@ -14,10 +14,10 @@
     "static/js/4.83ce8747.chunk.js": "./static/js/4.83ce8747.chunk.js",
     "static/js/4.83ce8747.chunk.js.map": "./static/js/4.83ce8747.chunk.js.map",
     "main.css": "./static/css/main.78738b63.chunk.css",
-    "main.js": "./static/js/main.a4a13ecc.chunk.js",
-    "main.js.map": "./static/js/main.a4a13ecc.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.8886de62.js",
-    "runtime-main.js.map": "./static/js/runtime-main.8886de62.js.map",
+    "main.js": "./static/js/main.b2e5aab8.chunk.js",
+    "main.js.map": "./static/js/main.b2e5aab8.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8d1a9dd3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8d1a9dd3.js.map",
     "static/css/7.452ea954.chunk.css": "./static/css/7.452ea954.chunk.css",
     "static/js/7.c8289c33.chunk.js": "./static/js/7.c8289c33.chunk.js",
     "static/js/7.c8289c33.chunk.js.map": "./static/js/7.c8289c33.chunk.js.map",
@@ -6066,10 +6066,10 @@
     "static/media/paypal.36df52e8.svg": "./static/media/paypal.36df52e8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8886de62.js",
+    "static/js/runtime-main.8d1a9dd3.js",
     "static/css/7.452ea954.chunk.css",
     "static/js/7.c8289c33.chunk.js",
     "static/css/main.78738b63.chunk.css",
-    "static/js/main.a4a13ecc.chunk.js"
+    "static/js/main.b2e5aab8.chunk.js"
   ]
 }
