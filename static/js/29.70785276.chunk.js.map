@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/history/history.tsx"],"names":["HistoryView"],"mappings":"kLAIeA,EAJe,WAC5B,OAAO","file":"static/js/29.70785276.chunk.js","sourcesContent":["const HistoryView: React.FC = () => {\n  return <>History</>;\n};\n\nexport default HistoryView;\n"],"sourceRoot":""}
