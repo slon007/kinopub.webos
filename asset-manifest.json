@@ -16,8 +16,8 @@
     "main.css": "./static/css/main.73269fe8.chunk.css",
     "main.js": "./static/js/main.ef00179c.chunk.js",
     "main.js.map": "./static/js/main.ef00179c.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.e65b57cd.js",
-    "runtime-main.js.map": "./static/js/runtime-main.e65b57cd.js.map",
+    "runtime-main.js": "./static/js/runtime-main.49d14768.js",
+    "runtime-main.js.map": "./static/js/runtime-main.49d14768.js.map",
     "static/css/7.452ea954.chunk.css": "./static/css/7.452ea954.chunk.css",
     "static/js/7.2ceb46b4.chunk.js": "./static/js/7.2ceb46b4.chunk.js",
     "static/js/7.2ceb46b4.chunk.js.map": "./static/js/7.2ceb46b4.chunk.js.map",
@@ -6064,7 +6064,7 @@
     "static/media/paypal.36df52e8.svg": "./static/media/paypal.36df52e8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e65b57cd.js",
+    "static/js/runtime-main.49d14768.js",
     "static/css/7.452ea954.chunk.css",
     "static/js/7.2ceb46b4.chunk.js",
     "static/css/main.73269fe8.chunk.css",
