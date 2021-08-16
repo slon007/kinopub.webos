@@ -638,11 +638,13 @@ export type GendersResponse = Gender[];
 
 export type CountriesResponse = Country[];
 
+export type ItemType = 'movie' | 'serial' | 'tvshow' | 'concert' | 'documovie' | 'docuserial';
+
 export type ItemsParams = {
   /**
    * Тип видео контента
    */
-  type?: string;
+  type?: ItemType;
 
   /**
    * Поиск по заголовку, минимум 3 символа. Выборка по типу LIKE ‘$ASD’
